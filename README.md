@@ -16,13 +16,5 @@
   </picture>
   </sup>
 </div>
-<div align="center">
 
-</div>
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://codestats-readme.wegfan.cn/history-graph/semolik?bg_color=151515&text_color=fafafa">
-  <img src="https://codestats-readme.wegfan.cn/history-graph/semolik?bg_color=151515&text_color=fafafa" width="100%" />
-</picture>
-</p>
 
