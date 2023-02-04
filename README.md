@@ -25,4 +25,4 @@
   <img src="https://codestats-readme.wegfan.cn/history-graph/semolik?bg_color=151515&text_color=fafafa" width="100%" />
 </picture>
 </p>
-#[![My Code::Stats history graph]()](https://codestats.net/users/semolik)
+
