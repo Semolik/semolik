@@ -17,5 +17,22 @@
   </sup>
 </div>
 <!--START_SECTION:waka-->
+
+```text
+From: 03 March 2023 - To: 10 March 2023
+
+Total Time: 41 hrs 43 mins
+
+Python       24 hrs 21 mins  ██████████████▓░░░░░░░░░░   58.37 %
+Vue.js       13 hrs 51 mins  ████████▒░░░░░░░░░░░░░░░░   33.21 %
+YAML         1 hr 1 min      ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
+JavaScript   47 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+TypeScript   40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
+JSON         22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+SCSS         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+Text         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Other        5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+```
+
 <!--END_SECTION:waka-->
 
