@@ -19,19 +19,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 August 2023 - To: 04 September 2023
+From: 29 August 2023 - To: 05 September 2023
 
-Total Time: 8 hrs 3 mins
+Total Time: 7 hrs 10 mins
 
-Vue.js       6 hrs 42 mins   ████████████████████▓░░░░   83.13 %
-SCSS         37 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 %
-TypeScript   32 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.69 %
-Python       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
-Bash         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-YAML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Vue.js       6 hrs 6 mins    █████████████████████▒░░░   85.09 %
+SCSS         32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 %
+TypeScript   25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 %
+Python       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
