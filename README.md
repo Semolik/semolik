@@ -19,17 +19,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 September 2023 - To: 13 September 2023
+From: 07 September 2023 - To: 14 September 2023
 
-Total Time: 5 hrs 40 mins
+Total Time: 6 hrs 2 mins
 
-Vue.js       3 hrs 48 mins   ████████████████▓░░░░░░░░   67.16 %
-Python       1 hr 1 min      ████▒░░░░░░░░░░░░░░░░░░░░   17.98 %
-TypeScript   29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 %
-JavaScript   12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
-JSON         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
-SCSS         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
-HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+Vue.js       4 hrs 2 mins    ████████████████▓░░░░░░░░   66.97 %
+Python       1 hr 1 min      ████▒░░░░░░░░░░░░░░░░░░░░   16.90 %
+TypeScript   29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 %
+JavaScript   12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
+SCSS         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+JSON         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
