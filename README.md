@@ -19,17 +19,19 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 September 2023 - To: 21 September 2023
+From: 15 September 2023 - To: 22 September 2023
 
-Total Time: 6 hrs 3 mins
+Total Time: 9 hrs 15 mins
 
-Vue.js       4 hrs 26 mins   ██████████████████▒░░░░░░   73.44 %
-JavaScript   1 hr            ████▒░░░░░░░░░░░░░░░░░░░░   16.76 %
-C            16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
-TypeScript   10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
-SCSS         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
-Markdown     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Vue.js       5 hrs 17 mins   ██████████████▒░░░░░░░░░░   57.19 %
+C            1 hr 51 mins    █████░░░░░░░░░░░░░░░░░░░░   20.02 %
+JavaScript   1 hr 7 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.13 %
+TypeScript   37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.69 %
+Markdown     11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
+SCSS         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+Bash         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Ezhil        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
