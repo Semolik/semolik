@@ -19,17 +19,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 October 2023 - To: 11 October 2023
+From: 05 October 2023 - To: 12 October 2023
 
-Total Time: 8 hrs 40 mins
+Total Time: 10 hrs 15 mins
 
-JavaScript   6 hrs 21 mins   ██████████████████▒░░░░░░   73.25 %
-HTML         1 hr 21 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.60 %
-CSS          45 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.67 %
-Python       11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+JavaScript   6 hrs 48 mins   ████████████████▓░░░░░░░░   66.42 %
+HTML         1 hr 41 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.57 %
+CSS          52 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 %
+Text         34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
+Python       16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 Ezhil        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
