@@ -19,18 +19,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 November 2023 - To: 23 November 2023
+From: 17 November 2023 - To: 24 November 2023
 
-Total Time: 5 hrs 1 min
+Total Time: 9 hrs 7 mins
 
-PHP          2 hrs 47 mins   ██████████████░░░░░░░░░░░   55.79 %
-Vue.js       1 hr 1 min      █████░░░░░░░░░░░░░░░░░░░░   20.29 %
-Python       40 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.39 %
-JavaScript   19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.46 %
-YAML         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
-Other        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
-TypeScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+Vue.js       3 hrs 37 mins   ██████████░░░░░░░░░░░░░░░   39.73 %
+PHP          2 hrs 47 mins   ███████▓░░░░░░░░░░░░░░░░░   30.68 %
+Python       2 hrs 5 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.88 %
+JavaScript   24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
+YAML         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+Other        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+TypeScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
