@@ -19,17 +19,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 December 2023 - To: 25 December 2023
+From: 19 December 2023 - To: 26 December 2023
 
-Total Time: 4 hrs 54 mins
+Total Time: 1 hr 14 mins
 
-Vue.js       4 hrs 7 mins    █████████████████████░░░░   83.94 %
-Python       35 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 %
-TypeScript   8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
-Text         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-Docker       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Vue.js       47 mins         ████████████████░░░░░░░░░   63.39 %
+Python       23 mins         ████████░░░░░░░░░░░░░░░░░   31.71 %
+TypeScript   3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
+Docker       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
