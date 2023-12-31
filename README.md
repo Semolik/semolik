@@ -19,14 +19,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 December 2023 - To: 29 December 2023
+From: 23 December 2023 - To: 30 December 2023
 
-Total Time: 15 mins
+Total Time: 2 hrs 13 mins
 
-Docker                     9 mins          ███████████████░░░░░░░░░░   60.26 %
-YAML                       2 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.25 %
-Nginx configuration file   2 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.93 %
-Python                     0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
+Docker                     59 mins         ███████████▒░░░░░░░░░░░░░   44.98 %
+YAML                       24 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.52 %
+JSON                       15 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.28 %
+Python                     13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.24 %
+Nginx configuration file   9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 %
+JavaScript                 7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 %
+Bash                       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+Text                       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+Other                      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Git Config                 0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
