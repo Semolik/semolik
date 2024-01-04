@@ -19,20 +19,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 December 2023 - To: 02 January 2024
+From: 27 December 2023 - To: 03 January 2024
 
-Total Time: 3 hrs 18 mins
+Total Time: 7 hrs 21 mins
 
-Docker                     1 hr            ███████▓░░░░░░░░░░░░░░░░░   30.68 %
-Vue.js                     1 hr            ███████▓░░░░░░░░░░░░░░░░░   30.68 %
-YAML                       25 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.77 %
-Python                     16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 %
-JSON                       15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 %
-Nginx configuration file   9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
-JavaScript                 7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
-Bash                       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
-Text                       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
-TypeScript                 0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Vue.js                     3 hrs 53 mins   █████████████▒░░░░░░░░░░░   52.92 %
+Docker                     1 hr            ███▒░░░░░░░░░░░░░░░░░░░░░   13.81 %
+TypeScript                 43 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.87 %
+YAML                       25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
+JSON                       23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
+Python                     16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
+Nginx configuration file   9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
+SCSS                       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
+JavaScript                 7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
+Git Config                 5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
 ```
 
 <!--END_SECTION:waka-->
