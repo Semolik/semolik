@@ -19,20 +19,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 January 2024 - To: 31 January 2024
+From: 25 January 2024 - To: 01 February 2024
 
-Total Time: 7 hrs 20 mins
+Total Time: 5 hrs 8 mins
 
-Python            5 hrs 8 mins    █████████████████▒░░░░░░░   69.92 %
-Vue.js            1 hr 9 mins     ████░░░░░░░░░░░░░░░░░░░░░   15.71 %
-Bash              18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
-Markdown          11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
-JavaScript        11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
-TypeScript        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
-Git Config        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
-JSON              3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
-YAML              2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
-Other             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+Python       3 hrs 21 mins   ████████████████▒░░░░░░░░   65.40 %
+Vue.js       1 hr 9 mins     █████▓░░░░░░░░░░░░░░░░░░░   22.48 %
+Bash         11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
+JavaScript   11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
+TypeScript   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
+JSON         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+Git Config   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
 ```
 
 <!--END_SECTION:waka-->
