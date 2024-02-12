@@ -19,20 +19,19 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 February 2024 - To: 10 February 2024
+From: 04 February 2024 - To: 11 February 2024
 
-Total Time: 11 hrs 30 mins
+Total Time: 7 hrs 53 mins
 
-Python                     9 hrs 41 mins   █████████████████████░░░░   84.20 %
-Docker                     32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
-Vue.js                     30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
-YAML                       30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
-Nginx configuration file   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
-Other                      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
-Text                       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Python                     6 hrs 5 mins    ███████████████████▒░░░░░   77.22 %
+Docker                     32 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 %
+Vue.js                     30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 %
+YAML                       29 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 %
+Nginx configuration file   12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
+Other                      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Text                       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 Markdown                   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 JSON                       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-Git Config                 0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
