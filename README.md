@@ -19,20 +19,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 February 2024 - To: 19 February 2024
+From: 13 February 2024 - To: 20 February 2024
 
-Total Time: 18 hrs 14 mins
+Total Time: 13 hrs 51 mins
 
-Python                     6 hrs 57 mins   █████████▓░░░░░░░░░░░░░░░   38.19 %
-Vue.js                     3 hrs 7 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.11 %
-C                          2 hrs 41 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.80 %
-ObjectiveC                 2 hrs 36 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.31 %
-TypeScript                 50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
-JavaScript                 27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
-Docker                     22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
-JSON                       18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
-YAML                       15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
-GitIgnore file             13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+Python           4 hrs 12 mins   ███████▓░░░░░░░░░░░░░░░░░   30.34 %
+C                2 hrs 40 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.33 %
+ObjectiveC       2 hrs 16 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.38 %
+Vue.js           1 hr 59 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.35 %
+TypeScript       47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
+JavaScript       27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
+Docker           22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
+JSON             18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
+YAML             15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
+GitIgnore file   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
 ```
 
 <!--END_SECTION:waka-->
