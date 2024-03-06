@@ -19,19 +19,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 February 2024 - To: 04 March 2024
+From: 27 February 2024 - To: 05 March 2024
 
-Total Time: 3 hrs 40 mins
+Total Time: 6 hrs 4 mins
 
-Vue.js           2 hrs 8 mins    ██████████████▓░░░░░░░░░░   58.19 %
-JavaScript       33 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.16 %
-C                19 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.89 %
-Python           16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 %
-ObjectiveC       16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 %
-Other            4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
-TypeScript       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-CMake            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Vue.js           3 hrs 57 mins   ████████████████▒░░░░░░░░   65.21 %
+Python           37 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.16 %
+JavaScript       33 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.17 %
+C                19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
+ObjectiveC       16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
+Markdown         13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
+Other            4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+TypeScript       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+CMake            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
