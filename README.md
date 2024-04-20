@@ -19,17 +19,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 April 2024 - To: 18 April 2024
+From: 12 April 2024 - To: 19 April 2024
 
-Total Time: 26 hrs 1 min
+Total Time: 20 hrs 12 mins
 
-C                15 hrs 19 mins  ██████████████▓░░░░░░░░░░   58.86 %
-ObjectiveC       9 hrs 23 mins   █████████░░░░░░░░░░░░░░░░   36.05 %
-Python           54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
-CMake            15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
-Other            7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+C                11 hrs 41 mins  ██████████████▒░░░░░░░░░░   57.83 %
+ObjectiveC       7 hrs 12 mins   █████████░░░░░░░░░░░░░░░░   35.63 %
+Python           54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
+CMake            15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+Other            7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
 GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-CMakeLists.txt   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+CMakeLists.txt   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 YAML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
