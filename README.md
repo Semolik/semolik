@@ -19,20 +19,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 April 2024 - To: 21 April 2024
+From: 15 April 2024 - To: 22 April 2024
 
-Total Time: 17 hrs 10 mins
+Total Time: 19 hrs 52 mins
 
-C                9 hrs 27 mins   █████████████▓░░░░░░░░░░░   55.06 %
-ObjectiveC       6 hrs 5 mins    █████████░░░░░░░░░░░░░░░░   35.51 %
-Python           1 hr 1 min      █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
-CMake            15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
-Other            13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
-C++              5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
-CMakeLists.txt   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+C                          9 hrs 1 min     ███████████▒░░░░░░░░░░░░░   45.40 %
+ObjectiveC                 5 hrs 49 mins   ███████▒░░░░░░░░░░░░░░░░░   29.32 %
+YAML                       1 hr 44 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.80 %
+Docker                     40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
+Other                      27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+Markdown                   23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+Python                     19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+Text                       19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+Git Config                 14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+Nginx configuration file   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
 ```
 
 <!--END_SECTION:waka-->
