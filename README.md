@@ -19,17 +19,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 April 2024 - To: 29 April 2024
+From: 23 April 2024 - To: 30 April 2024
 
-Total Time: 3 hrs 22 mins
+Total Time: 1 hr 39 mins
 
-C                1 hr 34 mins    ███████████▓░░░░░░░░░░░░░   46.82 %
-ObjectiveC       1 hr 33 mins    ███████████▓░░░░░░░░░░░░░   46.08 %
-CMake            7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
-Makefile         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
-Other            2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
-GitIgnore file   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
-Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+C                49 mins         ████████████▒░░░░░░░░░░░░   49.92 %
+ObjectiveC       44 mins         ███████████▒░░░░░░░░░░░░░   45.04 %
+Other            2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
+Makefile         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+CMake            0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 Python           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
