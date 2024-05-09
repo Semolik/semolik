@@ -19,18 +19,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 April 2024 - To: 07 May 2024
+From: 01 May 2024 - To: 08 May 2024
 
-Total Time: 5 hrs 13 mins
+Total Time: 5 hrs 6 mins
 
-ObjectiveC       2 hrs 43 mins   █████████████░░░░░░░░░░░░   52.04 %
-C                2 hrs 5 mins    ██████████░░░░░░░░░░░░░░░   40.14 %
-Docker           15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
-Markdown         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
-CMake            3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
-Other            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+ObjectiveC       2 hrs 51 mins   ██████████████░░░░░░░░░░░   55.91 %
+C                2 hrs 8 mins    ██████████▒░░░░░░░░░░░░░░   41.95 %
+Other            3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+CMake            3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
 GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-Git Config       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 Makefile         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
