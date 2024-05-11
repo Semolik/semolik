@@ -19,13 +19,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 May 2024 - To: 09 May 2024
+From: 03 May 2024 - To: 10 May 2024
 
-Total Time: 5 hrs 10 mins
+Total Time: 5 hrs 2 mins
 
-ObjectiveC   2 hrs 58 mins   ██████████████▒░░░░░░░░░░   57.59 %
-C            2 hrs 6 mins    ██████████▒░░░░░░░░░░░░░░   40.71 %
-Other        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+ObjectiveC   2 hrs 52 mins   ██████████████▒░░░░░░░░░░   57.01 %
+C            2 hrs 4 mins    ██████████▒░░░░░░░░░░░░░░   41.25 %
+Other        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
 CMake        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
 Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 Makefile     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
