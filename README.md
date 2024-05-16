@@ -19,13 +19,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 May 2024 - To: 14 May 2024
+From: 08 May 2024 - To: 15 May 2024
 
-Total Time: 1 hr 14 mins
+Total Time: 1 hr 1 min
 
-ObjectiveC   44 mins         ███████████████░░░░░░░░░░   59.68 %
-C            27 mins         █████████▒░░░░░░░░░░░░░░░   37.51 %
-Other        2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
+ObjectiveC   36 mins         ██████████████▓░░░░░░░░░░   58.96 %
+C            25 mins         ██████████▒░░░░░░░░░░░░░░   41.04 %
 ```
 
 <!--END_SECTION:waka-->
