@@ -19,14 +19,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 October 2024 - To: 23 October 2024
+From: 17 October 2024 - To: 24 October 2024
 
-Total Time: 27 mins
+Total Time: 25 mins
 
-Python   18 mins         ████████████████▒░░░░░░░░   65.77 %
-Docker   7 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.59 %
-Bash     2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 %
-YAML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Python   18 mins         █████████████████▓░░░░░░░   71.13 %
+Docker   7 mins          ███████▒░░░░░░░░░░░░░░░░░   28.75 %
+YAML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
