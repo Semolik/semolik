@@ -19,11 +19,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 November 2024 - To: 20 November 2024
+From: 14 November 2024 - To: 21 November 2024
 
-Total Time: 8 mins
+Total Time: 36 mins
 
-YAML   8 mins          █████████████████████████   100.00 %
+SQL    26 mins         ██████████████████▒░░░░░░   73.97 %
+YAML   8 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.26 %
+XML    1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
 ```
 
 <!--END_SECTION:waka-->
