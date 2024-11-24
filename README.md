@@ -19,13 +19,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 November 2024 - To: 22 November 2024
+From: 16 November 2024 - To: 23 November 2024
 
-Total Time: 36 mins
+Total Time: 38 mins
 
-SQL    26 mins         ██████████████████▒░░░░░░   73.97 %
-YAML   8 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.26 %
-XML    1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
+SQL          26 mins         █████████████████▒░░░░░░░   69.82 %
+YAML         8 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.01 %
+JavaScript   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
+XML          1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
+Vue.js       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
 ```
 
 <!--END_SECTION:waka-->
