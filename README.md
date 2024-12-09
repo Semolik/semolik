@@ -19,11 +19,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 November 2024 - To: 06 December 2024
+From: 01 December 2024 - To: 08 December 2024
 
-Total Time: 0 secs
+Total Time: 18 mins
 
-No activity tracked
+Python   14 mins         ███████████████████▓░░░░░   78.89 %
+Bash     3 mins          █████░░░░░░░░░░░░░░░░░░░░   19.63 %
+YAML     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
 ```
 
 <!--END_SECTION:waka-->
