@@ -19,12 +19,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 December 2024 - To: 30 December 2024
+From: 24 December 2024 - To: 31 December 2024
 
-Total Time: 5 mins
+Total Time: 2 hrs 43 mins
 
-Python   5 mins          ████████████████████████▓   99.33 %
-Bash     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+TypeScript    1 hr 6 mins     ██████████▒░░░░░░░░░░░░░░   40.90 %
+Vue.js        50 mins         ███████▓░░░░░░░░░░░░░░░░░   31.01 %
+Python        42 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.88 %
+Git Config    2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+HTML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+TSConfig      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Image (svg)   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+JavaScript    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+JSON          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Bash          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
