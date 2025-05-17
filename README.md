@@ -19,20 +19,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 May 2025 - To: 15 May 2025
+From: 09 May 2025 - To: 16 May 2025
 
-Total Time: 47 hrs 15 mins
+Total Time: 48 hrs 57 mins
 
-Python                     22 hrs 53 mins  ████████████░░░░░░░░░░░░░   48.44 %
-Vue.js                     20 hrs 46 mins  ███████████░░░░░░░░░░░░░░   43.94 %
-TypeScript                 1 hr 28 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
-Bash                       39 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
-JavaScript                 27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
-Markdown                   20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
-JSON                       14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
-Docker                     9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-YAML                       9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+Vue.js                     26 hrs 15 mins  █████████████▒░░░░░░░░░░░   53.65 %
+Python                     18 hrs 57 mins  █████████▓░░░░░░░░░░░░░░░   38.71 %
+TypeScript                 1 hr 40 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
+Bash                       43 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+JavaScript                 25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+JSON                       22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+YAML                       15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+Markdown                   7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 Nginx configuration file   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Other                      3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
