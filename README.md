@@ -19,13 +19,19 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 June 2025 - To: 29 June 2025
+From: 23 June 2025 - To: 30 June 2025
 
-Total Time: 2 hrs 29 mins
+Total Time: 3 hrs 31 mins
 
-Python   2 hrs 25 mins   ████████████████████████▒   97.18 %
-YAML     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
-Vue.js   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+Python       2 hrs 40 mins   ███████████████████░░░░░░   75.87 %
+YAML         19 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.31 %
+Markdown     17 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 %
+Bash         11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
+Vue.js       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+Docker       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+TOML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
