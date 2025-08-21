@@ -19,11 +19,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 August 2025 - To: 19 August 2025
+From: 13 August 2025 - To: 20 August 2025
 
-Total Time: 0 secs
+Total Time: 53 mins
 
-No activity tracked
+YAML         27 mins         █████████████░░░░░░░░░░░░   52.34 %
+Bash         9 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.09 %
+Python       5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.85 %
+Git Config   3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 %
+Markdown     2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
+Docker       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
+Other        1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
 ```
 
 <!--END_SECTION:waka-->
