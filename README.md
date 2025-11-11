@@ -19,11 +19,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 November 2025 - To: 08 November 2025
+From: 03 November 2025 - To: 10 November 2025
 
-Total Time: 0 secs
+Total Time: 3 hrs 18 mins
 
-No activity tracked
+JavaScript   2 hrs 28 mins   ██████████████████▓░░░░░░   75.13 %
+Python       38 mins         █████░░░░░░░░░░░░░░░░░░░░   19.60 %
+.env file    4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
+JSON         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+YAML         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
 ```
 
 <!--END_SECTION:waka-->
