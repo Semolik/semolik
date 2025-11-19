@@ -19,17 +19,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 November 2025 - To: 17 November 2025
+From: 11 November 2025 - To: 18 November 2025
 
-Total Time: 4 hrs 44 mins
+Total Time: 0 secs
 
-JavaScript   3 hrs 6 mins    ████████████████▒░░░░░░░░   65.44 %
-Python       1 hr 30 mins    ████████░░░░░░░░░░░░░░░░░   31.71 %
-TypeScript   8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
-.env file    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
