@@ -19,16 +19,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 June 2026 - To: 20 June 2026
+From: 14 June 2026 - To: 21 June 2026
 
-Total Time: 2 hrs 29 mins
+Total Time: 6 hrs 21 mins
 
-Python       1 hr 14 mins          ████████████▒░░░░░░░░░░░░   49.77 %
-TypeScript   56 mins               █████████▒░░░░░░░░░░░░░░░   37.99 %
-Other        15 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.26 %
-JSON         2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
-JavaScript   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
-Markdown     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Other        2 hrs 18 mins         █████████░░░░░░░░░░░░░░░░   36.46 %
+Python       2 hrs 2 mins          ████████░░░░░░░░░░░░░░░░░   32.15 %
+TypeScript   56 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.86 %
+Markdown     44 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.70 %
+YAML         11 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
+Bash         2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+JSON         2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+JavaScript   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Docker       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
