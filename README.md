@@ -19,16 +19,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 July 2026 - To: 12 July 2026
+From: 06 July 2026 - To: 13 July 2026
 
-Total Time: 5 hrs 43 mins
+Total Time: 3 hrs 16 mins
 
-TypeScript   2 hrs 42 mins         ████████████░░░░░░░░░░░░░   47.37 %
-Python       2 hrs 2 mins          █████████░░░░░░░░░░░░░░░░   35.64 %
-Vue          41 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.18 %
-Bash         7 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
-Other        5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
-Docker       3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+TypeScript   2 hrs 36 mins         ████████████████████░░░░░   79.48 %
+Python       28 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.48 %
+Other        5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
+Bash         3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
+Docker       3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
 ```
 
 <!--END_SECTION:waka-->
