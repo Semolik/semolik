@@ -19,14 +19,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 August 2026 - To: 17 August 2026
+From: 11 August 2026 - To: 18 August 2026
 
-Total Time: 15 hrs 3 mins
+Total Time: 15 hrs 1 min
 
-Python     7 hrs 4 mins          ███████████▓░░░░░░░░░░░░░   47.01 %
-Markdown   5 hrs 35 mins         █████████▒░░░░░░░░░░░░░░░   37.16 %
-YAML       2 hrs 18 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.34 %
+Python     5 hrs 50 mins         █████████▓░░░░░░░░░░░░░░░   38.91 %
+Markdown   5 hrs 39 mins         █████████▒░░░░░░░░░░░░░░░   37.67 %
+YAML       3 hrs 11 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.29 %
+Perl       12 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
 Docker     2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+Ruby       2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 Diff       1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
